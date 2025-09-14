@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\Calculator\\Calculator.csproj": {}
+    "C:\\dev\\cli-calculator-c-sharp-balta-io\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\dev\\Calculator\\Calculator.csproj": {
+    "C:\\dev\\cli-calculator-c-sharp-balta-io\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\dev\\cli-calculator-c-sharp-balta-io\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\dev\\Calculator\\Calculator.csproj",
+        "projectPath": "C:\\dev\\cli-calculator-c-sharp-balta-io\\Calculator.csproj",
         "packagesPath": "C:\\Users\\Raoni\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\Calculator\\obj\\",
+        "outputPath": "C:\\dev\\cli-calculator-c-sharp-balta-io\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Raoni\\AppData\\Roaming\\NuGet\\NuGet.Config"
